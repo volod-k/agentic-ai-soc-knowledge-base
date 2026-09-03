@@ -43,7 +43,7 @@ If your organization is moving toward vendor evaluation or preparing an RFP, the
 
 | **Provider** | **Best For** | **Key Strength** | **Compliance** |
 | --- | --- | --- | --- |
-| 1. UnderDefense (the agentic AI SOC) ⭐ 4.8/5 | Lean teams wanting fully managed AI SOC + MDR + compliance in one platform | Vendor-agnostic AI SOC with dedicated Human Ally concierge response; 1,500+ correlation rules, 98% accuracy | SOC 2, HIPAA, ISO 27001, PCI DSS, GDPR, CMMC |
+| 1. UnderDefense (the agentic AI SOC) ⭐ 4.8/5 | Lean teams wanting a fully managed Agentic AI SOC + compliance in one platform | Vendor-agnostic Agentic AI SOC with a 24/7 IR team on standby; 1,500+ correlation rules, 98% accuracy | SOC 2, HIPAA, ISO 27001, PCI DSS, GDPR, CMMC |
 | 2. Arctic Wolf ⭐ 4.7/5 | Largest mid-market data advantage with 10,000+ customers | Concierge Security Team with $3M financial warranty; eight trillion security events/week | SOC 2, HIPAA, PCI DSS |
 | 3. eSentire ⭐ 4.7/5 | Regulated mid-market needing battle-tested MDR with 20+ years of expertise | Atlas AI with real-time TCP reset threat blocking; 15-min MTTC, 99.3% first-host isolation | SOC 2, HIPAA, PCI DSS, GDPR |
 | 4. Expel ⭐ 4.8/5 | Tech-forward mid-market wanting radical transparency into SOC operations | Workbench: real-time visibility into every analyst action; API-first, 160+ integrations, deploy in hours | SOC 2, HIPAA, PCI DSS |
@@ -52,16 +52,16 @@ If your organization is moving toward vendor evaluation or preparing an RFP, the
 | 7. Radiant Security ⭐ 5.0/5 | Eliminating SIEM costs with flat-rate AI SOC for lean teams | 100% alert coverage (known and unknown); built-in security data lake with 85% reduced logging costs | SOC 2, HIPAA |
 | 8. Torq HyperSOC ⭐ N/A (SOAR) | Existing stack needing AI-powered orchestration and hyperautomation | Multi-agent AI with 300+ integrations and 2,800+ automated actions; 70× response time reduction | SOC 2, HIPAA, PCI DSS |
 
-## 1. UnderDefense (the agentic AI SOC) : Best for Lean Teams Wanting a Fully Managed AI SOC + MDR + Compliance in One Platform
+## 1. UnderDefense (the agentic AI SOC) : Best for Lean Teams Wanting a Fully Managed Agentic AI SOC + Compliance in One Platform
 ### ✅ Overview
-UnderDefense occupies a unique position in the AI SOC market by combining an AI-native platform ([UnderDefense](https://underdefense.com/platform/)) with a deeply hands-on human concierge model, offering mid-market companies what is essentially a fully outsourced security operations function without the cost of building one internally. Founded in 2017, the company has built its reputation on a “show, don’t tell” philosophy: every investigative step is observable and auditable, and the platform integrates with customer-owned SIEM, EDR, and cloud logs instead of forcing lock-in to proprietary stacks.
+UnderDefense occupies a unique position in the AI SOC market: an Agentic AI SOC that works on top of the security stack you already own, backed by a 24/7 IR team, giving mid-market companies enterprise-grade security operations without building a full internal SOC or replacing their tools. Founded in 2017, the company has built its reputation on a “show, don’t tell” philosophy: every investigative step is observable and auditable, and the platform integrates with customer-owned SIEM, EDR, and cloud logs instead of forcing lock-in to proprietary stacks.
 
-The [the UnderDefense platform](https://underdefense.com/maxi-ai/) integrates AI SOC, MDR, compliance automation, penetration testing, and vCISO advisory into a single service, a consolidation that no other provider on this list offers at a comparable price point.
+The [UnderDefense platform](https://underdefense.com/maxi-ai/) brings Agentic AI SOC, compliance automation, penetration testing, and vCISO advisory together in a single service, a consolidation that no other provider on this list offers at a comparable price point.
 
 ### 🔧 Core Services
-- 24/7 AI-driven SOC with 1,500+ pre-built correlation rules and 98% accuracy in verdict-making
+- 24/7 Agentic AI SOC with 1,500+ pre-built correlation rules and 98% accuracy in verdict-making
 
-- Fully managed [MDR](https://underdefense.com/services/managed-detection-and-response/) with dedicated Tier 3 to 4 Incident Response team as strategic Ally
+- 24/7 IR team (Tier 3 to 4) on standby for urgent escalations
 
 - Compliance automation for SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, and CMMC
 
@@ -70,15 +70,15 @@ The [the UnderDefense platform](https://underdefense.com/maxi-ai/) integrates AI
 - [vCISO advisory](https://underdefense.com/services/virtual-ciso/) with 30-day impact report
 
 ### 💡 Why Companies Consider UnderDefense
-Here’s the operational reality most MDR buyers hit: you invest in security tools, get buried in alerts, and your team spends nights triaging noise instead of doing strategic work. We built [UnderDefense](https://underdefense.com/platform/) to solve exactly that. What makes it different:
+Here’s the operational reality most mid-market security buyers hit: you invest in security tools, get buried in alerts, and your team spends nights triaging noise instead of doing strategic work. We built UnderDefense to solve exactly that. What makes it different:
 
-- **ChatOps-driven user verification** : We ping your users over Slack, Teams, Email, and SMS to discover missing context. Many behavioral alerts require asking “did Jane Doe just log in from a new location?” If your team doesn’t have time to ask each user, we do it for you.
+- **ChatOps-driven user verification** : We ping your users over Slack, Teams, Email, and SMS to discover missing context. Many behavioral alerts require asking “did Jane Doe just log in from a new location?” If your team doesn’t have time to ask each user, the platform does it for you.
 
 - **Vendor-agnostic integration** : UnderDefense works on top of any existing SIEM/XDR (Splunk, Sentinel, Chronicle), maintaining full customer ownership of their stack. No rip-and-replace. See all [UnderDefense integrations](https://underdefense.com/integrations/).
 
 - **Detection Logic as Code** : Forward-looking teams treat detection rules like software, written in Python, securely versioned, unit-tested, and deployed via CI/CD.
 
-- **Proven outcomes** : Zero ransomware cases across all MDR clients in 6 years; 2-minute alert-to-triage SLA; 830% ROI over 3 years; 96% MITRE coverage.
+- **Proven outcomes** : Zero ransomware cases across all customers in 6 years; 2-minute alert-to-triage SLA; 830% ROI over 3 years; 96% MITRE coverage.
 
 ### 🎯 Ideal Customer Profile
 - Mid-market organizations with 500 to 10,000 employees across technology, healthcare, financial services, legal, and SaaS
@@ -90,7 +90,7 @@ Here’s the operational reality most MDR buyers hit: you invest in security too
 - Companies with existing security tools they want to keep, not replace
 
 ### 💰 Commercial Model
-UnderDefense operates on a subscription-based model with all-inclusive [pricing](https://underdefense.com/mdr-pricing/). The $11 to $15/endpoint/month range includes AI SOC, MDR response, compliance automation, and vCISO advisory. Transparent pricing with no hidden data-ingestion surcharges.
+UnderDefense operates on a subscription-based model with all-inclusive [pricing](https://underdefense.com/mdr-pricing/). The $11 to $15/endpoint/month range includes Agentic AI SOC, 24/7 IR response, compliance automation, and vCISO advisory. Transparent pricing with no hidden data-ingestion surcharges.
 
 ### ⏰ When to Shortlist
 Organizations evaluating a turnkey AI SOC that bundles detection, response, compliance, and advisory into a single vendor, particularly those who want to preserve their existing security investments while getting 24/7 expert coverage, should include UnderDefense during the RFP stage.
@@ -415,7 +415,7 @@ Each provider received a composite score from 0 to 100, mapped to star ratings:
 ### 📋 Final Scoring Table
 | **Provider** | **Score** | **Stars** | **Key Scoring Note** |
 | --- | --- | --- | --- |
-| UnderDefense ([UnderDefense](https://underdefense.com/platform/) AI SOC) | 92/100 | ★★★★★ | Highest bundled value; only provider combining AI SOC + MDR + compliance + vCISO at $11 to $15/endpoint/month |
+| UnderDefense (UnderDefense AI SOC) | 92/100 | ★★★★★ | Highest bundled value; only provider combining Agentic AI SOC + compliance + vCISO at $11 to $15/endpoint/month |
 | Arctic Wolf | 78/100 | ★★★★ | Largest mid-market customer base (10K+); deducted for proprietary stack lock-in and opaque pricing |
 | eSentire | 76/100 | ★★★★ | Strongest Forrester mid-market recognition; deducted for pricing complexity across three tiers |
 | Expel | 75/100 | ★★★★ | Best transparency (Workbench); deducted for limited signal coverage beyond endpoints |
@@ -425,7 +425,7 @@ Each provider received a composite score from 0 to 100, mapped to star ratings:
 | Torq HyperSOC | 53/100 | ★★★ | Best orchestration/automation layer; deducted because it requires existing infrastructure and internal team |
 
 ### ✅ Why UnderDefense Leads
-UnderDefense scores highest because it is the only provider that bundles AI SOC, [managed MDR](https://underdefense.com/services/managed-detection-and-response/), [compliance automation](https://underdefense.com/services/cybersecurity-compliance/), and [vCISO advisory](https://underdefense.com/services/virtual-ciso/) into a single platform at published [mid-market pricing](https://underdefense.com/mdr-pricing/). No other provider on this list delivers that combination without requiring proprietary tool replacement, opaque enterprise contracts, or significant internal headcount. The 92/100 reflects operational reality, not marketing claims, validated by 4.8/5 on G2, 66 Clutch reviews, and zero ransomware cases across all MDR clients in six years.
+UnderDefense scores highest because it is the only provider that bundles Agentic AI SOC, a 24/7 IR team, [compliance automation](https://underdefense.com/services/cybersecurity-compliance/), and [vCISO advisory](https://underdefense.com/services/virtual-ciso/) into a single platform at published [mid-market pricing](https://underdefense.com/mdr-pricing/). No other provider on this list delivers that combination without requiring proprietary tool replacement, opaque enterprise contracts, or significant internal headcount. The 92/100 reflects operational reality, not marketing claims, validated by 4.8/5 on G2, 66 Clutch reviews, and zero ransomware cases across all customers in six years.
 
 ## Q3. What Is an AI SOC and Why Is It the New Standard for Mid-Market Security Teams?
 ### 🔍 Defining AI SOC for Mid-Market
@@ -443,7 +443,7 @@ Picture this: a 2-person security team at a 1,200-employee company. Every week, 
 Same team, same alert volume. But now agentic AI triages 95%+ of the noise, correlates cross-tool signals, verifies suspicious activity directly with affected users, and contains threats autonomously. The 2 AM incident? “Incident contained at 2:52 AM. Here’s what happened and what we did.” Your team reviews a clean incident summary in the morning, not 47 unread alerts.
 
 ### 🔧 How **[**UnderDefense**](https://underdefense.com/platform/)** Delivers This
-We built [UnderDefense](https://underdefense.com/maxi-ai/) specifically for this reality: 1,500+ correlation rules, 98% verdict accuracy, 8× faster incident context, and concierge analysts who verify suspicious activity via Slack, Teams, Email, and SMS. With 80+ [integrations](https://underdefense.com/integrations/) and 99% alert noise reduction within the first week of onboarding, UnderDefense gives lean teams the operational leverage they need without replacing the tools they already own.
+We built [UnderDefense](https://underdefense.com/maxi-ai/) specifically for this reality: 1,500+ correlation rules, 98% verdict accuracy, 8× faster incident context, and ChatOps that verifies suspicious activity directly with users via Slack, Teams, Email, and SMS. With 250+ [integrations](https://underdefense.com/integrations/) and 99% alert noise reduction within the first week of onboarding, UnderDefense gives lean teams the operational leverage they need without replacing the tools they already own.
 
 “The biggest win was getting actual control over our security alerts. Before UD stepped in, we were getting bombarded with alerts… Their team cleaned up our configurations and got the noise under control within the first week.”
 
@@ -455,7 +455,7 @@ We built [UnderDefense](https://underdefense.com/maxi-ai/) specifically for this
 
 ## Q4. AI SOC vs. MDR vs. SOCaaS: Which Model Fits Your Mid-Market Budget and Team Size?
 ### ⚠️ The Decision Dilemma
-Three overlapping models compete for mid-market security budgets: AI SOC platforms (Stellar Cyber, Radiant Security), managed MDR (Arctic Wolf, eSentire), and hybrid AI SOC + Human Ally (UnderDefense, Expel). Picking the wrong model means either overpaying for capabilities you’ll never use or undercovering the threats that actually hit mid-market organizations at 2 AM.
+Three overlapping models compete for mid-market security budgets: AI SOC platforms (Stellar Cyber, Radiant Security), managed MDR (Arctic Wolf, eSentire), and hybrid Agentic AI SOC with human backup (UnderDefense, Expel). Picking the wrong model means either overpaying for capabilities you’ll never use or undercovering the threats that actually hit mid-market organizations at 2 AM.
 
 ### ❌ The Wrong Way to Decide
 Most security leaders choose based on brand recognition (“CrowdStrike is the biggest”) or integration count (“they support our SIEM”). This ignores the critical question: Can this provider operate with your team size, integrate with your existing tools, AND respond, not just detect? Feature checklists alone don’t answer that.
@@ -466,21 +466,21 @@ Most security leaders choose based on brand recognition (“CrowdStrike is the b
 | In-House SOC | 8 to 12 FTEs | Full internal | Custom-built | $1.8M to $2.5M+ | 6 to 12 months |
 | AI SOC Platform | 2 to 3 FTEs | Shared (AI + internal) | Vendor-native | $50K to $150K | 1 to 4 weeks |
 | Managed MDR | 0 to 1 FTE | Provider-led (detect + escalate) | Varies (often proprietary) | $100K to $500K | 4 to 12 weeks |
-| AI SOC + Human Ally | 0 to 1 FTE | Provider-owned (detect + respond + verify) | Vendor-agnostic | $66K to $180K | 30 days |
+| Agentic AI SOC (Human Backup) | 0 to 1 FTE | AI investigates + verifies; your team or 24/7 IR responds | Vendor-agnostic | $66K to $180K | 30 days |
 
 [Building an in-house SOC](https://underdefense.com/blog/outsourced-soc-vs-in-house-soc-making-the-right-choice/) requires $1M to $2M in upfront infrastructure investment plus $1.5M+ annually for a minimum viable 24/7 team. The average SOC analyst costs $77,000/year, meaning just the staffing for a 24/7 operation easily exceeds $1 million before tools, training, and turnover.
 
 ### 📊 Real Vendor Pricing Side-by-Side
 | **Provider** | **Model** | **Pricing** | **Annual Cost (1K endpoints)** |
 | --- | --- | --- | --- |
-| UnderDefense | AI SOC + Human Ally | $11 to $15/endpoint/month | ~$132K to $180K |
+| UnderDefense | Agentic AI SOC + 24/7 IR | $11 to $15/endpoint/month | ~$132K to $180K |
 | Arctic Wolf | Managed MDR | $3 to $8/user/month | ~$36K to $96K |
 | Expel | Managed MDR | From $11,640/year | Varies by scope |
 | CrowdStrike Falcon Complete | Managed MDR (native stack) | Endpoint-based (Falcon Flex) | Enterprise pricing |
 | Radiant Security | AI SOC Platform | Flat-rate | Not published |
 
 ### ✅ Where UnderDefense Fits
-UnderDefense scores highest in the AI SOC + Human Ally category because it bundles AI-driven detection, managed human response, AND [compliance automation](https://underdefense.com/services/cybersecurity-compliance/), saving $50K to $150K/year that mid-market companies would otherwise spend on separate GRC tools like Vanta or Drata. The model requires 0 to 1 internal FTEs, deploys in 30 days, and maintains 100% ransomware prevention across 500+ clients over six years.
+UnderDefense scores highest in this category because it bundles agentic detection, a 24/7 IR team, AND [compliance automation](https://underdefense.com/services/cybersecurity-compliance/), saving $50K to $150K/year that mid-market companies would otherwise spend on separate GRC tools like Vanta or Drata. The model requires 0 to 1 internal FTEs, deploys in 30 days, and maintains 100% ransomware prevention across 200+ enterprises in the US and EU over six years.
 
 The real question isn’t “Which model has the most features?” but “Which model can own security outcomes with the team and budget I actually have?”
 
@@ -528,7 +528,7 @@ Speed-to-value matters when you’re operating lean:
 
 | **Provider** | **Typical Deployment Timeline** |
 | --- | --- |
-| **UnderDefense** | ~30 days (full MDR + compliance) |
+| **UnderDefense** | ~30 days (full Agentic AI SOC + compliance) |
 | **Arctic Wolf** | 4 to 6 weeks |
 | **eSentire** | 4 to 8 weeks |
 | **Expel** | Hours to days (API) + weeks (tuning) |
@@ -538,7 +538,7 @@ Speed-to-value matters when you’re operating lean:
 | **Torq** | 2 to 4 weeks |
 
 #### ✅ How UnderDefense Turns Every Unchecked Box Into ✓
-We built [UnderDefense](https://underdefense.com/platform/) around the reality that mid-market teams can’t wait months for value. In practice, that means 80+ native [integrations](https://underdefense.com/integrations/) across your existing stack, transparent [pricing starting at $11/asset/month](https://underdefense.com/mdr-pricing/), a documented 15-minute MTTC for critical incidents, ChatOps analyst communication through Slack and Teams, forever-free [compliance kits](https://underdefense.com/services/cybersecurity-compliance/) for SOC 2 and ISO 27001, and full onboarding within 30 days, including your first impact report.
+We built [UnderDefense](https://underdefense.com/platform/) around the reality that mid-market teams can’t wait months for value. In practice, that means 250+ native [integrations](https://underdefense.com/integrations/) across your existing stack, transparent [pricing starting at $11/asset/month](https://underdefense.com/mdr-pricing/), a documented 15-minute MTTC for critical incidents, ChatOps verification through Slack and Teams, forever-free [compliance kits](https://underdefense.com/services/cybersecurity-compliance/) for SOC 2 and ISO 27001, and full onboarding within 30 days, including your first impact report.
 
 The operational proof: 90% false positive reduction and 99% alert noise reduction within the first month.
 
@@ -570,10 +570,10 @@ Stellar Cyber reports 80%+ analyst productivity improvements through AI-driven t
 #### 🏗️ Architecture That Absorbs Growth
 The critical question is whether your AI SOC can absorb new environments, including cloud accounts, SaaS applications, and acquired company toolsets, without re-architecting. If your MDR provider requires a proprietary SIEM or specific EDR, every acquisition becomes a migration project. That’s where vendor lock-in becomes a growth tax.
 
-We designed [UnderDefense](https://underdefense.com/platform/) with 80+ integrations because mid-market growth is messy. When a PE portfolio company acquires a target running a different security stack, that environment plugs into the existing detection fabric within the standard 30-day onboarding window. No rip-and-replace, no new headcount.
+We designed [UnderDefense](https://underdefense.com/platform/) with 250+ integrations because mid-market growth is messy. When a PE portfolio company acquires a target running a different security stack, that environment plugs into the existing detection fabric within the standard 30-day onboarding window. No rip-and-replace, no new headcount.
 
 #### 📈 The vCISO Force Multiplier
-Scaling from 500 to 10,000 doesn’t just mean more endpoints. It means evolving security program maturity. Our [vCISO advisory](https://underdefense.com/services/virtual-ciso/) adapts the roadmap at each growth stage without a full-time CISO hire ($250K to $400K+). Most scaling clients maintain 2 to 3 internal security staff throughout their growth trajectory, with our analysts and vCISO covering the rest.
+Scaling from 500 to 10,000 doesn’t just mean more endpoints. It means evolving security program maturity. Our [vCISO advisory](https://underdefense.com/services/virtual-ciso/) adapts the roadmap at each growth stage without a full-time CISO hire ($250K to $400K+). Most scaling clients maintain 2 to 3 internal security staff throughout their growth trajectory, with our IR team and vCISO covering the rest.
 
 “Worth every penny. The service delivers what they promised without the typical vendor overselling and underdelivering we’ve experienced with others.”
 
@@ -587,7 +587,7 @@ Scaling from 500 to 10,000 doesn’t just mean more endpoints. It means evolving
 
 — CISO, Manufacturing (3B to 10B USD) [***Arctic Wolf – Gartner Peer Review***](https://www.gartner.com/reviews/market/managed-detection-and-response/vendor/arctic-wolf-networks/product/arctic-wolf-managed-detection-and-response-services/review/view/5021402)
 
-The bottom line: 100% ransomware prevention across 500+ clients through every growth stage, from Series A to post-acquisition integration. Scaling security doesn’t require scaling headcount. It requires scaling intelligence.
+The bottom line: 100% ransomware prevention across 200+ enterprises in the US and EU through every growth stage, from Series A to post-acquisition integration. Scaling security doesn’t require scaling headcount. It requires scaling intelligence.
 
 ## Q7. Ready to Evaluate AI SOC for Your Mid-Market Organization? Start Here
 You’ve seen the eight providers compared side by side, walked through the scoring methodology, mapped compliance readiness, and benchmarked deployment timelines. The next step isn’t another comparison article but a direct conversation about your specific environment.
@@ -598,7 +598,7 @@ UnderDefense offers a no-commitment [security assessment](https://underdefense.c
 FREE ASSESSMENT
 
 ### Get Your Free Mid-Market AI SOC Assessment
-See exactly how [UnderDefense](https://underdefense.com/platform/) integrates with your existing tools, what it costs for your employee count, and what the first 30 days look like, with documented metrics from 500+ mid-market deployments.
+See exactly how [UnderDefense](https://underdefense.com/platform/) integrates with your existing tools, what it costs for your employee count, and what the first 30 days look like, with documented metrics from 200+ mid-market deployments across the US and EU.
 
 [Request Your Assessment →](https://underdefense.com/contact/)
 
@@ -611,7 +611,7 @@ This evaluation is grounded in documented sources, not opinion:
 
 - **Gartner Peer Insights**: Verified reviews from CISOs, CTOs, and IT Directors across mid-market and enterprise organizations.
 
-- **Operational outcomes**: Metrics drawn from 500+ MDR deployments protecting mid-market organizations, including documented [case studies](https://underdefense.com/case-studies/from-67m-in-losses-to-zero-ransom-paid-a-ransomware-rescue-case/) with clients like WWE, VW, Shell, and the Bill & Melinda Gates Foundation.
+- **Operational outcomes**: Metrics drawn from 200+ enterprise deployments across the US and EU protecting mid-market organizations, including documented [case studies](https://underdefense.com/case-studies/from-67m-in-losses-to-zero-ransom-paid-a-ransomware-rescue-case/) with clients like WWE, VW, Shell, and the Bill & Melinda Gates Foundation.
 
 The data speaks for itself. Now let’s talk about what it means for your organization specifically.
 
@@ -626,7 +626,7 @@ An AI SOC takes a fundamentally different approach:
 
 - Human analysts handle the context: verifying suspicious activity with affected users, making containment decisions, and adapting response to organizational specifics.
 
-We built [UnderDefense](https://underdefense.com/platform/) around this model because we saw firsthand that mid-market teams need a provider that owns outcomes, not just generates notifications. With 1,500+ correlation rules and 98% verdict accuracy, UnderDefense automates the triage burden while our concierge analysts handle the decisions that require organizational knowledge.
+We built [UnderDefense](https://underdefense.com/platform/) around this model because we saw firsthand that mid-market teams need a provider that owns outcomes, not just generates notifications. With 1,500+ correlation rules and 98% verdict accuracy, UnderDefense automates the triage burden while your own team, backed by our 24/7 IR team, handles the decisions that require organizational knowledge.
 
 The bottom line: AI SOC gives lean teams enterprise-grade detection without enterprise headcount.
 
@@ -645,14 +645,14 @@ At 500+ employees, the threat surface expands meaningfully:
 
 - 4,000+ weekly alerts that overwhelm a 1 to 2 person team
 
-We designed our [MDR pricing model](https://underdefense.com/mdr-pricing/) at $11 to $15/endpoint/month specifically for this segment. At 500 endpoints, that’s roughly $66K to $90K annually, which is less than the fully loaded cost of a single security analyst and delivers 24/7 coverage, compliance automation, and vCISO advisory bundled in.
+We designed our [pricing model](https://underdefense.com/mdr-pricing/) at $11 to $15/endpoint/month specifically for this segment. At 500 endpoints, that’s roughly $66K to $90K annually, which is less than the fully loaded cost of a single security analyst and delivers 24/7 coverage, compliance automation, and vCISO advisory bundled in.
 
 For organizations with fewer than 500 employees, a [managed SOC service](https://underdefense.com/services/soc/) with lighter tooling requirements may provide better budget alignment.
 
 ##### 3. How much does an AI SOC cost for a mid-market company with 1,000 employees?
 AI SOC pricing for mid-market companies varies significantly by model and provider. At 1,000 endpoints, here’s what the market looks like:
 
-- **AI SOC + Human Ally (UnderDefense):** $132K to $180K/year. Includes AI-driven detection, managed response, compliance automation, and vCISO advisory at $11 to $15/endpoint/month.
+- **Agentic AI SOC (UnderDefense):** $132K to $180K/year. Includes agentic detection, a 24/7 IR team, compliance automation, and vCISO advisory at $11 to $15/endpoint/month.
 
 - **Managed MDR (Arctic Wolf):** $36K to $96K/year at $3 to $8/user/month, but with proprietary SIEM lock-in.
 
@@ -679,7 +679,7 @@ AI SOC changes this equation because triage scales computationally while human j
 
 - Flat-rate pricing scales linearly, not exponentially.
 
-We designed [UnderDefense](https://underdefense.com/maxi-ai/) with 80+ integrations because mid-market growth is messy. When a PE portfolio company acquires a target running a different security stack, that environment plugs into the existing detection fabric within 30 days. No rip-and-replace, no new headcount.
+We designed [UnderDefense](https://underdefense.com/maxi-ai/) with 250+ integrations because mid-market growth is messy. When a PE portfolio company acquires a target running a different security stack, that environment plugs into the existing detection fabric within 30 days. No rip-and-replace, no new headcount.
 
 Our [vCISO advisory](https://underdefense.com/services/virtual-ciso/) adapts the security roadmap at each growth stage, allowing most scaling clients to maintain 2 to 3 internal staff throughout their growth trajectory.
 
@@ -728,7 +728,7 @@ Deployment timelines range from minutes to months, depending on architecture and
 
 - **Stellar Cyber / Torq:** 2 to 4 weeks.
 
-- **UnderDefense:** ~30 days for full MDR + compliance automation + first impact report.
+- **UnderDefense:** ~30 days for full Agentic AI SOC + compliance automation + first impact report.
 
 - **Arctic Wolf:** 4 to 6 weeks.
 
@@ -747,7 +747,7 @@ The numbers tell the story:
 
 - **In-house SOC:** $1M to $2M upfront infrastructure + $1.5M+/year for minimum viable 24/7 staffing (8 to 12 FTEs). Time to value: 6 to 12 months.
 
-- **AI SOC + Human Ally:** $66K to $180K/year with 0 to 1 internal FTEs required. Time to value: 30 days.
+- **Agentic AI SOC (UnderDefense model):** $66K to $180K/year with 0 to 1 internal FTEs required. Time to value: 30 days.
 
 Beyond cost, the operational reality is that in-house SOCs at mid-market scale face chronic challenges: analyst burnout, 2 AM coverage gaps, 3.4-million-person talent shortage turning hiring into a six-month ordeal, and the constant pressure to keep detection logic current against evolving threats.
 
